@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/Ktravel/app/src/main/res/drawable/tab_four_selector.xml" value="0.124" />
+        <entry key="..\:/AndroidProjects/Ktravel/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/Ktravel/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/Ktravel/app/src/main/res/layout/activity_register_setpwd.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/Ktravel/app/src/main/res/layout/activity_reset_pwd.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/Ktravel/app/src/main/res/layout/activity_scence_detail.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/Ktravel/app/src/main/res/layout/activity_send_email.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/Ktravel/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/Ktravel/app/src/main/res/layout/activity_user_info.xml" value="0.21829710144927536" />
+        <entry key="..\:/AndroidProjects/Ktravel/app/src/main/res/layout/activity_web_view.xml" value="0.21829710144927536" />
+        <entry key="..\:/AndroidProjects/Ktravel/app/src/main/res/layout/fragment_mine.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/Ktravel/app/src/main/res/layout/fragment_one.xml" value="0.21829710144927536" />
+        <entry key="..\:/AndroidProjects/Ktravel/app/src/main/res/layout/fragment_two.xml" value="0.21829710144927536" />
+        <entry key="..\:/AndroidProjects/Ktravel/app/src/main/res/layout/header_common.xml" value="0.21829710144927536" />
+        <entry key="..\:/AndroidProjects/Ktravel/app/src/main/res/layout/item_booking.xml" value="0.21829710144927536" />
+        <entry key="..\:/AndroidProjects/Ktravel/app/src/main/res/layout/item_hobby.xml" value="0.21829710144927536" />
+        <entry key="..\:/AndroidProjects/Ktravel/app/src/main/res/layout/item_scence.xml" value="0.21829710144927536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
